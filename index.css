@@ -24,9 +24,9 @@ li  {
 }
 .q {
     width: 1080px;
-    height: 660px;
+    height: 1140px;
     margin: auto;
-    background-color: rgb(185, 227, 244);
+    background-color: #f3f5f7;
 }
 /* box1区域 */
 .box1 {

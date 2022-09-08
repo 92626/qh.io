@@ -79,7 +79,8 @@ li  {
     background-color: #fff;
     box-shadow: 0 2px 3px 3px rgba(0, 0, 0, .1);
     margin-top: -15px;
-    padding-left: 40px;
+    margin-left: 40px;
+    padding-left: 25px;
     line-height: 45px;
 }
 .intohb h3 {
